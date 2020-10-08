@@ -13,6 +13,7 @@ six blood serum measurements.
 
 Based on this project, our model is:
 y =-28.2528924*(age)-192.27359695*(sex)+512.03905586*(bmi)+282.69909415*(bp)-630.4813557*(s1)+393.50457699*(s2)+20.19357534*(s3)+112.73522418*(s4)+696.38689731*(s5)+36.59645541(s6) + 150.04613206397468
+
 Mean Squared Error (MSE) is: 2822.72
 R^2 is: 0.60
 
