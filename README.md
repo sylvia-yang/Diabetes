@@ -1,5 +1,5 @@
 # Diabetes
-This is a python project to build a linear regression model of diabetes disease progression against ten explantory variables including age, sex, bmi, etc.
+This is a python project to build a multiple linear regression model of diabetes disease progression against ten explantory variables including age, sex, bmi, etc.
 
 This dataset is a built-in dataset from sklearn and it contains:
 
